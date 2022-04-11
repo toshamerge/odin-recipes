@@ -40,3 +40,18 @@
 	font-weight: bold;
 	font-size: 24px;
 }
+
+.first-button,
+.second-button {
+	font-size: 28px;
+	font-family: 'Times New Roman', Times, "Halvetica", sans-serif;
+}
+
+.first-button {
+	background-color: black;
+	color: #fff;
+}
+
+.second-button {
+	background-color: rgb(246, 250, 8);
+}
