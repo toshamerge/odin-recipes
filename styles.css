@@ -20,3 +20,23 @@
 	font-size: 18px;
 	background-color: orange;
 }
+
+.first-class {
+	background-color: rgb(236, 123, 123);
+	font-family: Verdana, sans-serif;
+}
+
+.second-class {
+	font-size: 24px;
+}
+
+#first-id {
+	color: #0000ff;
+	font-size: 36px;
+}
+
+#second-id {
+	background-color: rgb(100, 241, 87);
+	font-weight: bold;
+	font-size: 24px;
+}
