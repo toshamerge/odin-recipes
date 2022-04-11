@@ -55,3 +55,13 @@
 .second-button {
 	background-color: rgb(246, 250, 8);
 }
+
+.avatar.propotioned {
+	width: 300px;
+	height: auto;
+}
+
+.avatar.distorted {
+	width: 200px;
+	height: 400px;
+}
