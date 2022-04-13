@@ -65,3 +65,10 @@
 	width: 200px;
 	height: 400px;
 }
+
+.container .text {
+	background-color: yellow;
+	font-size: 20px;
+	color: red;
+
+}
